@@ -1,6 +1,4 @@
-*.class
-*.jar
-
 .gradle
 build/
+out/
 .idea/
